@@ -7,6 +7,9 @@
 
  I thrive on transforming complex ideas into elegant, functional, and user-friendly applications. Throughout the past 5 years, I have acquired extensive knowledge and proficiency in programming and writing code. I am now ready to use my skills and passion to help solve real world problems.  
 
+## Skills and Experience
+![image](https://github.com/Raizan17/Raizan17/assets/107761048/5a839ff9-fbc9-4916-b05f-9646efc9d4e6)
+
 Skills: REACT / JS / HTML / CSS / JAVA / MySQL / NODEJS / PYTHON
 
 - 🔭 I’m currently working on a full stack application that compares the price of an item between different grocery stores and helps the user to decide which store to buy from. 
