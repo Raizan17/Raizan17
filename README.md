@@ -2,10 +2,8 @@
 
 
 ![I'm an enthusiastic undergraduate Computer Science student at the University of Calgary with a deep passion for software development. ](https://media.licdn.com/dms/image/D5616AQEK5YsKLD-lmg/profile-displaybackgroundimage-shrink_350_1400/0/1693451857754?e=1706140800&v=beta&t=c4WsMWs4JLWCJs0QfJXT5WeTCsDiKcOloaO-hqz4jY0)
-### Hey there 👋, My name is Raizan
-#### I'm an enthusiastic undergraduate Computer Science student at the University of Calgary with a deep passion for software development. 💻
-
- I thrive on transforming complex ideas into elegant, functional, and user-friendly applications. Throughout the past 5 years, I have acquired extensive knowledge and proficiency in programming and writing code. I am now ready to use my skills and passion to help solve real world problems.  
+### 🚀 Hey there 👋, My name is Raizan
+#### I'm a Computer Science student at University Of Calgary 🏫, where I'm unlocking the secrets of code and diving into the magic of algorithms. My GitHub is a dynamic showcase of my coding escapades, from tackling complex problems to crafting innovative projects. 💻 Passionate about algorithms and software development, I'm on a mission to merge creativity with cutting-edge tech. Join me on this exhilarating journey—let's code the future together! 🌐✨ #CodingAdventures #TechEnthusiast #FutureDeveloper
 
 ## Skills and Experience
 🌐 React
