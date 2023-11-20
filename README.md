@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Skills: REACT / JS / HTML / CSS / JAVA / MySQL / NODEJS / PYTHON
 
-- 🔭 I’m currently working on a full stack application that allows users to analyze the price between different grocery stores to decide which store to buy from. 
+- 🔭 I’m currently working on a full stack application that compares the price of an item between different grocery stores and helps the user to decide which store to buy from. 
 - 📫 How to reach me: Through email at raizan.lee17@gmail.com, or send me a message through my portfolio. 
 
 
